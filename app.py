@@ -1,4 +1,4 @@
 from config import api_key
 
 print(api_key)
-print('Hello World')
+print(15)
